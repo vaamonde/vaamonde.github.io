@@ -2,7 +2,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>QRCode - SENAC Tito</title>
+<title>QRCode Maratona Cisco - SENAC Tito</title>
 
 <style>
     * {
@@ -55,8 +55,8 @@
 <body>
 
 <div class="container">
-    <h1>Projeto SENAC Tito</h1>
-    <p>Escaneie o QR Code abaixo.</p>
+    <h1>Maratona Cisco - SENAC Lapa Tito</h1>
+    <p>Escaneie o QR Code abaixo para acessar a página</p>
     <div id="qrcode"></div>
 </div>
 
