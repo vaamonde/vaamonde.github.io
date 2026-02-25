@@ -57,6 +57,7 @@
 <div class="container">
     <h1>Maratona Cisco - SENAC Lapa Tito</h1>
     <p>Escaneie o QR Code abaixo para acessar a página</p>
+    <a href="https://github.com/vaamonde/netacad/wiki/senactito" target="_blank">Link direto</a>
     <div id="qrcode"></div>
 </div>
 
